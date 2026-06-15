@@ -1,0 +1,88 @@
+/* ABC Arizona — self-hosted webfonts (WOFF2)
+   Place the .woff2 files alongside this CSS, or adjust the url() paths.
+   Usage: font-family: "ABC Arizona"; then set font-weight / font-style. */
+
+/* Thin 200 */
+@font-face {
+    font-family: "ABC Arizona";
+    src: url("ABCArizonaFlare-Thin.woff2") format("woff2");
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "ABC Arizona";
+    src: url("ABCArizonaFlare-ThinItalic.woff2") format("woff2");
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Light 300 */
+@font-face {
+    font-family: "ABC Arizona";
+    src: url("ABCArizonaFlare-Light.woff2") format("woff2");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "ABC Arizona";
+    src: url("ABCArizonaFlare-LightItalic.woff2") format("woff2");
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Regular 400 */
+@font-face {
+    font-family: "ABC Arizona";
+    src: url("ABCArizonaFlare-Regular.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "ABC Arizona";
+    src: url("ABCArizonaFlare-RegularItalic.woff2") format("woff2");
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Medium 500 */
+@font-face {
+    font-family: "ABC Arizona";
+    src: url("ABCArizonaFlare-Medium.woff2") format("woff2");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "ABC Arizona";
+    src: url("ABCArizonaFlare-MediumItalic.woff2") format("woff2");
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Bold 700 */
+@font-face {
+    font-family: "ABC Arizona";
+    src: url("ABCArizonaFlare-Bold.woff2") format("woff2");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "ABC Arizona";
+    src: url("ABCArizonaFlare-BoldItalic.woff2") format("woff2");
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}

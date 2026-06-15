@@ -1,0 +1,28 @@
+/* BISON LOGIN STYLES */
+
+:root {
+    --bison-background-color: #1D1D1D;
+    --bison-primary-color: #BA3737;
+}
+
+body {
+    background-color: #F0F0F1;
+}
+
+.login h1 a {
+    background-image: url('../images/bison-logo.svg');
+    background-size: contain;
+    width: 100%;
+    height: 30px;
+}
+
+.wp-core-ui .button-primary {
+    background-color: var(--bison-background-color);
+    color: #fff;
+}
+
+.login .message,
+.login .notice,
+.login .success {
+    border-left: 4px solid var(--bison-primary-color);
+}
